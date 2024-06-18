@@ -88,8 +88,3 @@ java.io.FileNotFoundException
 Causa
 Quando tentamos ler ou escrever, em um arquivo que não existe.
 
-
-
-
-
-
