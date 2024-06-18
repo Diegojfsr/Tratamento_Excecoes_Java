@@ -10,7 +10,6 @@ public class FormatadorCepExemplo {
             System.out.println("O cep nao corresponde as regras de negocio.");
             // e.printStackTrace();
         }
-        
     }
 
     static String formatarCep(String cep) throws CepInvalidoException{
@@ -20,5 +19,4 @@ public class FormatadorCepExemplo {
           //simulando um cep formatado
           return "23.765-064";
     }
-    
 }
